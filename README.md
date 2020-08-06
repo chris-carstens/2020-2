@@ -22,24 +22,24 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 
 | Nombre                | Email       | Github |
 |:--------------------- |:-------------| :---------|
-| Vicente Errázuriz | verrazuriz@uc.cl | @vichoeq |
-| Cristóbal Espinoza | caespinoza5@uc.cl | @caespinoza5 |
-| Yerko Chávez | yachavez@uc.cl | @yerkko |
-| Nicolás Lahsen | nflahsen@uc.cl | @NicolasLahsen |
-| Luciano Aguilera | lbaguilera@uc.cl | @arbiocanpion |
-| Brayan Moreno | bbmoreno@uc.cl | @brayanmoreno |
-| Florencia Ferrer | fpferrer@uc.cl | @fpferrer |
-| Paula Yoma | pbyoma@uc.cl | @pbyoma |
-| Kristine Droppelmann | kkdroppelmann@uc.cl | @kdroppelmann |
-| Federico Hurtado | fthurtado@uc.cl | @fthurtado |
-| Trinidad Vargas | mtvargas1@uc.cl | @TrinidadVargas |
-| Cristóbal Jones | cjones2@uc.cl | @cjones27 |
-| Ignacio Zúñiga | inzuniga@uc.cl | @inizuniga |
-| Ian Fieldhouse | ifieldhouse@uc.cl | @ifieldhouse |
-| Diego Campos | dacampos1@uc.cl | @dacampos |
-| Matías Quezada | moquezada@uc.cl | @moquezada |
-| Kyle Bossonney | kbossonney1@uc.cl | @kylevon |
-| Manuel Munoz | mimunoz11@uc.cl | @mimunoz11 |
+| Vicente Errázuriz | verrazuriz@uc.cl | [@vichoeq](https://www.github.com/vichoeq) |
+| Cristóbal Espinoza | caespinoza5@uc.cl | [@caespinoza5](https://www.github.com/caespinoza5) |
+| Yerko Chávez | yachavez@uc.cl | [@yerkko](https://www.github.com/yerkko) |
+| Nicolás Lahsen | nflahsen@uc.cl | [@NicolasLahsen](https://www.github.com/NicolasLahsen) |
+| Luciano Aguilera | lbaguilera@uc.cl | [@arbiocanpion](https://www.github.com/arbiocanpion) |
+| Brayan Moreno | bbmoreno@uc.cl | [@brayanmoreno](https://www.github.com/brayanmoreno) |
+| Florencia Ferrer | fpferrer@uc.cl | [@fpferrer](https://www.github.com/fpferrer) |
+| Paula Yoma | pbyoma@uc.cl | [@pbyoma](https://www.github.com/pbyoma) |
+| Kristine Droppelmann | kkdroppelmann@uc.cl | [@kdroppelmann](https://www.github.com/kdroppelmann) |
+| Federico Hurtado | fthurtado@uc.cl | [@fthurtado](https://www.github.com/fthurtado) |
+| Trinidad Vargas | mtvargas1@uc.cl | [@TrinidadVargas](https://www.github.com/TrinidadVargas) |
+| Cristóbal Jones | cjones2@uc.cl | [@cjones27](https://www.github.com/cjones27) |
+| Ignacio Zúñiga | inzuniga@uc.cl | [@inzuniga](https://www.github.com/inzuniga) |
+| Ian Fieldhouse | ifieldhouse@uc.cl | [@ifieldhouse](https://www.github.com/ifieldhouse) |
+| Diego Campos | dacampos1@uc.cl | [@dacampos](https://www.github.com/dacampos) |
+| Matías Quezada | moquezada@uc.cl | [@moquezada](https://www.github.com/moquezada) |
+| Kyle Bossonney | kbossonney1@uc.cl | [@kylevon](https://www.github.com/kylevon) |
+| Manuel Munoz | mimunoz11@uc.cl | [@mimunoz11](https://www.github.com/mimunoz11) |
 
 ## Evaluaciones
 
