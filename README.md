@@ -27,6 +27,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Yerko Chávez | yachavez@uc.cl | [@yerkko](https://www.github.com/yerkko) |
 | Nicolás Lahsen | nflahsen@uc.cl | [@NicolasLahsen](https://www.github.com/NicolasLahsen) |
 | Luciano Aguilera | lbaguilera@uc.cl | [@arbiocanpion](https://www.github.com/arbiocanpion) |
+| Benjamín Domínguez | bidominguez@uc.cl | [@B-Dominguez](https://www.github.com/B-Dominguez) |
 | Brayan Moreno | bbmoreno@uc.cl | [@brayanmoreno](https://www.github.com/brayanmoreno) |
 | Florencia Ferrer | fpferrer@uc.cl | [@fpferrer](https://www.github.com/fpferrer) |
 | Paula Yoma | pbyoma@uc.cl | [@pbyoma](https://www.github.com/pbyoma) |
@@ -40,6 +41,8 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Matías Quezada | moquezada@uc.cl | [@moquezada](https://www.github.com/moquezada) |
 | Kyle Bossonney | kbossonney1@uc.cl | [@kylevon](https://www.github.com/kylevon) |
 | Manuel Munoz | mimunoz11@uc.cl | [@mimunoz11](https://www.github.com/mimunoz11) |
+| Lothar Droppelmann | ldroppelmann@uc.cl | [@lothardp](https://www.github.com/lothardp) |
+| Jacques Hasard | jnhasard@uc.cl | [@jnhasard](https://www.github.com/jnhasard) |
 
 ## Evaluaciones
 
@@ -62,7 +65,7 @@ Habrá 5 tareas de programación en C, donde deberán resolver un problema compl
 
 | Evaluación | Fecha de anuncio | Fecha de entrega |
 |:----------|:----------|:----------|
-| Tarea 0 | 12 de agosto | 26 de agosto|
+| Tarea 0 | 12 de agosto | 29 de agosto|
 | Tarea 1 | 31 de agosto | 14 de septiembre |
 | Tarea 2 | 7 de octubre | 22 de octubre |
 | Tarea 3 | 26 de octubre | 10 de noviembre |
