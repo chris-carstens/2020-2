@@ -1,10 +1,11 @@
 ---
 name: Dudas C
-about: Por si tienes dudas de cómo hacer algo en C.
+about: Por si tienes dudas de cómo hacer algo en C o algo de C no te funciona como
+  debería
 title: "[Duda C]"
-labels: ''
+labels: C
 assignees: ''
 
 ---
 
-Tu duda aquí.
+[Plataforma de C] = La plataforma en la que estas corriendo C (Nativo en Linux / MacOS, WSL o máquina virtual en windows, etc)
