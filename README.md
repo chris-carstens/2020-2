@@ -15,7 +15,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 
 | Nombre               |  Sección         |  Email         |
 |:-------------------- |:--------------|:--------------|
-| Yadran Eterovic | 1 | yadran@ing.puc.cl |
+| Yadran Eterovic | 1,2 | yadran@ing.puc.cl |
 
 
 ### Ayudantes
