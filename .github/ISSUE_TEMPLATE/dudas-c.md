@@ -1,7 +1,6 @@
 ---
 name: Dudas C
-about: Por si tienes dudas de cómo hacer algo en C o algo de C no te funciona como
-  debería
+about: Por si tienes dudas de cómo hacer algo en C o algo de C no te funciona
 title: "[Duda C]"
 labels: C
 assignees: ''
