@@ -1,6 +1,6 @@
 ---
 name: "\U0001F6E0 Dudas de Instalación / Configuración"
-about: Si el material que te pasamos no funciona como debería, pregunta acá
+about: Si tienes problemas instalando / configurando algo o algo no funciona
 title: "[Setup]"
 labels: Setup
 assignees: ''
