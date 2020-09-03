@@ -6,3 +6,4 @@
 * [03 - Merge Sort](https://youtu.be/U7XzergQNcA)
 * [04 - Quick Sort](https://youtu.be/N5UwDHbA5Cw)
 * [05 - Propiedades de Quicksort](https://youtu.be/qG-jI6vChe0)
+* [06 - Heaps & Heapsort](https://youtu.be/XZxgL-XbF3E)
