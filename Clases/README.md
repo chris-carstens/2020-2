@@ -8,3 +8,4 @@
 * [05 - Propiedades de Quicksort](https://youtu.be/qG-jI6vChe0)
 * [06 - Heaps & Heapsort](https://youtu.be/XZxgL-XbF3E)
 * [07 - Árboles Binarios de Búsqueda](https://youtu.be/RFCmqOf6JQk)
+* [08 - Reglas de Balance y Árbol AVL](https://youtu.be/Wu6btZmCmsI)
