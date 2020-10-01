@@ -11,3 +11,4 @@
 * [08 - Reglas de Balance y Árbol AVL](https://youtu.be/Wu6btZmCmsI)
 * [09 - Altura AVL & Árboles 2-3](https://youtu.be/TTaRG5WnLNA)
 * [10 - Árboles Rojo/Negro](https://youtu.be/1M-BFeyXQMI)
+* [11 - Repaso I1](https://youtu.be/ND8opcG4-EQ)
