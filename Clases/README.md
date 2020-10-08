@@ -12,3 +12,4 @@
 * [09 - Altura AVL & Árboles 2-3](https://youtu.be/TTaRG5WnLNA)
 * [10 - Árboles Rojo/Negro](https://youtu.be/1M-BFeyXQMI)
 * [11 - Repaso I1](https://youtu.be/ND8opcG4-EQ)
+* [12 - Tablas de Hash](https://youtu.be/-AFV2UoafWE)
