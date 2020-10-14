@@ -14,3 +14,4 @@
 * [11 - Repaso I1](https://youtu.be/ND8opcG4-EQ)
 * [12 - Tablas de Hash](https://youtu.be/-AFV2UoafWE)
 * [13 - Tablas de hash + Funciones de Hash](https://youtu.be/o5Hf3JvbGZQ)
+* [14 - Funciones de hash y sus propiedades](https://youtu.be/UCDjEyfDxz8)
