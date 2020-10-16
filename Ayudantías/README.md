@@ -8,7 +8,7 @@
 * [Ayudantía 3 - Heaps y ABB](https://youtu.be/bjxAsZD-bww)
 * [Ayudantía 4 - I1.1](https://youtu.be/ofJFQ5qjBVU)
 * [Ayudantía 5 - I1.2](https://youtu.be/W6yrruhBcV8)
-
+* [Ayudantía 6 - Sesión de ayuda T2](https://youtu.be/Rus-fLj42oA)
 
 # Material Talleres
 * [Taller 1 - Heaps](https://youtu.be/AV4bIptlq0o)
