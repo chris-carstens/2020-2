@@ -1,19 +1,3 @@
-# Video Clases
+# Material trasladado
 
-* [00 - Introducción al curso](https://youtu.be/UT2z0kRnWV0)
-* [01 - Selection Sort](https://youtu.be/TPkaSIT91qE)
-* [02 - Insertion Sort](https://youtu.be/1fNwQk09u8o)
-* [03 - Merge Sort](https://youtu.be/U7XzergQNcA)
-* [04 - Quick Sort](https://youtu.be/N5UwDHbA5Cw)
-* [05 - Propiedades de Quicksort](https://youtu.be/qG-jI6vChe0)
-* [06 - Heaps & Heapsort](https://youtu.be/XZxgL-XbF3E)
-* [07 - Árboles Binarios de Búsqueda](https://youtu.be/RFCmqOf6JQk)
-* [08 - Reglas de Balance y Árbol AVL](https://youtu.be/Wu6btZmCmsI)
-* [09 - Altura AVL & Árboles 2-3](https://youtu.be/TTaRG5WnLNA)
-* [10 - Árboles Rojo/Negro](https://youtu.be/1M-BFeyXQMI)
-* [11 - Repaso I1](https://youtu.be/ND8opcG4-EQ)
-* [12 - Tablas de Hash](https://youtu.be/-AFV2UoafWE)
-* [13 - Tablas de hash + Funciones de Hash](https://youtu.be/o5Hf3JvbGZQ)
-* [14 - Funciones de hash y sus propiedades](https://youtu.be/UCDjEyfDxz8)
-* [15 - Grafos & Depth First Search](https://youtu.be/RWHT6L-p7LQ)
-* [16 - Aplicaciones de DFS](https://youtu.be/V5aRhxyz2p0)
+Puedes revisarlo en el README del repositorio principal, [aquí](https://github.com/IIC2133-PUC/2020-2/).
