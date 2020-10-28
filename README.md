@@ -39,7 +39,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Ayudantía | 06| Sesión de ayuda T2 | 16/10 | [Video](https://www.youtube.com/watch?v=Rus-fLj42oA&feature=youtu.be) |  | |
 | Clase | 15 |Grafos y Depth First Search  | 19/10 | [Video](https://www.youtube.com/watch?v=RWHT6L-p7LQ&feature=youtu.be) | [Slides](https://github.com/IIC2133-PUC/2020-2/blob/master/Clases/13%20-%20Grafos%20%26%20DFS/Grafos%20%26%20Depth%20First%20Search.pdf) | |
 | Clase | 16 |Aplicaciones de DFS | 21/10 | [Video](https://www.youtube.com/watch?v=V5aRhxyz2p0&feature=youtu.be) | [Slides](https://github.com/IIC2133-PUC/2020-2/blob/master/Clases/13%20-%20Grafos%20%26%20DFS/Aplicaciones%20de%20DFS.pdf) | |
-| Ayudantía | 06 | Orden topológico, DFS (ejercicios para la casa) | 23/10 | [Video 1](https://youtu.be/_w5Dz8jHGm0), [Video 2](https://youtu.be/E0Ry_na5YEM) | | 
+| Ayudantía | 07 | Orden topológico, DFS (ejercicios para la casa) | 23/10 | [Video 1](https://youtu.be/_w5Dz8jHGm0), [Video 2](https://youtu.be/E0Ry_na5YEM) | | 
 | Clase | 17 | Backtracking | 26/10 | [Video](https://youtu.be/BGvYQD8rm70) | [Slides](https://github.com/IIC2133-PUC/2020-2/blob/master/Clases/14%20-%20Backtracking/Backtracking.pdf) | [Slides Antiguas](https://github.com/IIC2133-PUC/2020-2/blob/master/Clases/14%20-%20Backtracking/Diapos%20anteriores.pdf)|
 
 
