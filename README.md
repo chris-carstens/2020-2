@@ -42,7 +42,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Ayudantía | 07 | Orden topológico, DFS (ejercicios para la casa) | 23/10 | [Video 1](https://youtu.be/_w5Dz8jHGm0), [Video 2](https://youtu.be/E0Ry_na5YEM) | | 
 | Clase | 17 | Backtracking | 26/10 | [Video](https://youtu.be/BGvYQD8rm70) | [Slides](https://github.com/IIC2133-PUC/2020-2/blob/master/Clases/14%20-%20Backtracking/Backtracking.pdf) | [Slides Antiguas](https://github.com/IIC2133-PUC/2020-2/blob/master/Clases/14%20-%20Backtracking/Diapos%20anteriores.pdf)|
 | Clase | 18 | Resultados I1 y Backtracking | 28/10 | [Video](https://youtu.be/-EXMtXyi5a8) | [Slides](https://github.com/IIC2133-PUC/2020-2/blob/master/Clases/14%20-%20Backtracking/Backtracking%20Generalizado.pdf) | [N-Queens](http://eightqueen.becher-sundstroem.de/) |
-
+|Ayudantía| 08 | Backtracking: podas y heurísticas | 30/10 | [Video](https://youtu.be/qPWgivMtOAA) | [Slides](https://github.com/IIC2133-PUC/2020-2/blob/master/Clases/14%20-%20Backtracking/Backtracking%20Generalizado.pdf) | [Slitherlink](https://www.puzzle-loop.com/), [ZHED](https://play.google.com/store/apps/details?id=com.groundcontrol.zhed&hl=en_US&gl=US) |
 
 ## Equipo
 
