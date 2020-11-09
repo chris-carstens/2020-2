@@ -106,7 +106,7 @@ Habrá 5 tareas de programación en C, donde deberán resolver un problema compl
 | Tarea 0 | 12 de agosto | 29 de agosto|
 | Tarea 1 | 31 de agosto | 14 de septiembre |
 | Tarea 2 | 7 de octubre | 22 de octubre |
-| Tarea 3 | 26 de octubre | 10 de noviembre |
+| Tarea 3 | 26 de octubre | 13 de noviembre |
 | Tarea 4 | 17 de noviembre | 1 de diciembre |
 
 La nota final del curso se calcula de la siguiente manera:
@@ -119,8 +119,8 @@ double nota_final()
     /* La nota de cada interrogación*/
     double I1,I2,I3;
 
-    /* Promedio de tareas */
-    double NT = (T0 + T1 + T2 + T3 + T4) / 5;
+    /* Promedio de tareas ignorando la peor */
+    double NT = ((T0 + T1 + T2 + T3 + T4) - min(T0,T1,T2,T3,T4))/ 4;
     /* Promedio de interrogaciones */
     double NI = (I1 + I2 + I3) / 3;
     
