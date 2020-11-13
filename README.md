@@ -46,6 +46,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Clase | 19 | BFS & Dijkstra | 2/11 | [Video](https://youtu.be/IVg1XHGI8Ok) | [Slides](https://github.com/IIC2133-PUC/2020-2/blob/master/Clases/15%20-%20BFS%20%26%20Dijkstra/15.%20BFS%2BDijkstra.pdf) | |
 | Clase | 20 | Dijkstra y grafos de estado | 4/11 | [Video](https://youtu.be/1ynAwM_hqtE) | [Slides Dijkstra](https://github.com/IIC2133-PUC/2020-2/blob/master/Clases/15%20-%20BFS%20%26%20Dijkstra/15.%20BFS%2BDijkstra.pdf) , [Slides Espacio de estados](https://github.com/IIC2133-PUC/2020-2/blob/master/Clases/15%20-%20BFS%20%26%20Dijkstra/BFS%20y%20grafos%20de%20estado.pdf) | |
 | Ayudantía | 09 | BFS & Dijkstra | 6/11 | [Video](https://youtu.be/ILzR3a_bHO8) | [Enunciado](https://github.com/IIC2133-PUC/2020-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%206%20-%20Dijkstra%20y%20BFS/Enunciado.pdf) |[Slides](https://github.com/IIC2133-PUC/2020-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%206%20-%20Dijkstra%20y%20BFS/Ayudant%C3%ADa%206.pdf) y [Demostración BFS](https://github.com/IIC2133-PUC/2020-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%206%20-%20Dijkstra%20y%20BFS/Ej2%20BFS.pdf) |
+| Clase | 21 | Repaso I2 | 11/11 | [Video](https://youtu.be/cvqJVV-51mY) | [Slides](https://github.com/IIC2133-PUC/2020-2/blob/master/Clases/16%20-%20Repaso%20I2/Repaso-I2.pdf) | |
 
 ## Equipo
 
