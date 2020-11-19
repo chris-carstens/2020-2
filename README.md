@@ -48,7 +48,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Ayudantía | 09 | BFS & Dijkstra | 6/11 | [Video](https://youtu.be/ILzR3a_bHO8) | [Enunciado](https://github.com/IIC2133-PUC/2020-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%206%20-%20Dijkstra%20y%20BFS/Ayudantia_8.pdf) |[Slides](https://github.com/IIC2133-PUC/2020-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%206%20-%20Dijkstra%20y%20BFS/Ayudant%C3%ADa%206.pdf) y [Demostración BFS](https://github.com/IIC2133-PUC/2020-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%206%20-%20Dijkstra%20y%20BFS/Ej2%20BFS.pdf) |
 | Clase | 21 | Repaso I2 | 11/11 | [Video](https://youtu.be/cvqJVV-51mY) | [Slides](https://github.com/IIC2133-PUC/2020-2/blob/master/Clases/16%20-%20Repaso%20I2/Repaso-I2.pdf) | |
 | Ayudantía | 10 | Repaso I2 | 13/11 | [Video](https://youtu.be/zNjU4Vi63cs) |[Enunciado](https://github.com/IIC2133-PUC/2020-2/blob/master/Ayudant%C3%ADas/Ayudantia%209%20-%20repaso%20I2/Ayudantia_9.pdf) |
-
+| Clase | 22 | MST, Prim y Algoritmos Codiciosos | 19/11 | [Video](https://youtu.be/ZRe_XMAsIK4) | [Slides](https://github.com/IIC2133-PUC/2020-2/blob/master/Clases/17%20-%20Prim/17.%20Prim%20%26%20Algoritmos%20Codiciosos.pdf) | |
 ## Equipo
 
 ### Profesores
