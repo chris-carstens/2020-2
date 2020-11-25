@@ -51,6 +51,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Clase | 22 | MST, Prim y Algoritmos Codiciosos | 18/11 | [Video](https://youtu.be/ZRe_XMAsIK4) | [Slides](https://github.com/IIC2133-PUC/2020-2/blob/master/Clases/17%20-%20Prim/17.%20Prim%20%26%20Algoritmos%20Codiciosos.pdf) | |
 | Ayudantía | 11 | Algoritmos Codiciosos | 20/11 | [Video](https://youtu.be/wpDOCOnTmHE) | [Slides](https://github.com/IIC2133-PUC/2020-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2010%20-%20Algoritmos%20Codiciosos/Ayudantia%2010.pdf) | [Burbujas](https://www.youtube.com/watch?v=dAyDi1aa40E) , [Simulación](https://www.youtube.com/watch?v=0lpsLCgCp2Q) |
 | Clase | 23 | Conjuntos disjuntos y Kruskal | 23/11 | [Video](https://youtu.be/DyMxIeHY-2I) | [Slides](https://github.com/IIC2133-PUC/2020-2/blob/master/Clases/18%20-%20Kruskal/18.%20Kruskal%20%26%20Conjuntos%20Disjuntos.pdf) | |
+| Clase | 24 | Programación Dinámica | 25/11 | [Video](https://youtu.be/eI0F-dXLJq8) | [Slides](https://github.com/IIC2133-PUC/2020-2/blob/master/Clases/19%20-%20Programaci%C3%B3n%20Din%C3%A1mica/19-ProgDina%CC%81mica.pdf) | |
 ## Equipo
 
 ### Profesores
