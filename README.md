@@ -53,7 +53,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Clase | 23 | Conjuntos disjuntos y Kruskal | 23/11 | [Video](https://youtu.be/DyMxIeHY-2I) | [Slides](https://github.com/IIC2133-PUC/2020-2/blob/master/Clases/18%20-%20Kruskal/18.%20Kruskal%20%26%20Conjuntos%20Disjuntos.pdf) | |
 | Clase | 24 | Programación Dinámica I | 25/11 | [Video](https://youtu.be/eI0F-dXLJq8) | [Slides](https://github.com/IIC2133-PUC/2020-2/blob/master/Clases/19%20-%20Programaci%C3%B3n%20Din%C3%A1mica/19-ProgDina%CC%81mica.pdf) | |
 | Clase | 25 | Programación Dinámica II, Bellman-Ford | 30/11| [Video](https://youtu.be/VO-S-0Py6m8) | [Slides](https://github.com/IIC2133-PUC/2020-2/blob/master/Clases/19%20-%20Programaci%C3%B3n%20Din%C3%A1mica/19-ProgDina%CC%81mica.pdf) | |
-| Ayudantía | 12 | Conjuntos Disjuntos y Programación Dinámica | 27/11 | [Video](https://youtu.be/hwoAu0BW0cQ) | 
+| Ayudantía | 12 | Conjuntos Disjuntos y Programación Dinámica | 27/11 | [Video](https://youtu.be/hwoAu0BW0cQ) | [Slides](https://github.com/IIC2133-PUC/2020-2/blob/master/Ayudant%C3%ADas/Ayudantia%2011%20-%20Conjuntos%20Disjuntos%20y%20Programaci%C3%B3n%20Din%C3%A1mica/AY-12-2020-2.pdf) | [Snake Problem](https://www.geeksforgeeks.org/find-maximum-length-snake-sequence/) |
 ## Equipo
 
 ### Profesores
