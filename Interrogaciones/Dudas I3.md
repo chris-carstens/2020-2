@@ -1,27 +1,27 @@
-## Sesiones de dudas (Zoom)
+# Sesiones de dudas (Zoom)
 
 * Sesión 1: [Coming soon]
 * Sesión 2: [Video]
 * Sesión 3: [Video]
 
-## Recopilado de dudas
+# Recopilado de dudas
 
-### Pregunta 1
+## Pregunta 1
 
 * Asume que la ruta es una línea recta
 * No importa _quien_ ve el letrero, el w_i representa la ganancia del letrero sub i
 * k es una constante
 * Debes responder la parte A y B. No se pide que resuelvas el problema.
 
-#### Parte A
+### Parte A
 
 ---
 
-#### Parte B
+### Parte B
 
 ---
 
-### Pregunta 2
+## Pregunta 2
 
 * La definición algoritmo la vimos al principio del curso. Pueden hacerlo en prosa o en pseudocódigo, o una mezcla de ambos.
 * Puedes asumir que el par (a,a) siempre va a aparecer para cada persona a
@@ -30,11 +30,11 @@
 * Las personas de un grupo de amigos no son necesariamente todas amigas entre ellas
 * No conoces de antemano cuantas personas hay
 
-#### Parte A
+### Parte A
 
 * Lineal = O(|F|)
 
-#### Parte B
+### Parte B
 
 * Puedes asumir que los trios que vienen en U siempre te permitirán resolver el problema
 * una función linearitmica es una función lineal multiplicada por una función logaritmica. En terminos de O, O(n log m), donde m puede o no ser igual a n
@@ -43,7 +43,7 @@
 * Una vez que a y b se hacen amigos, entonces b tambien es amigo de a
 * La lista U no viene ordenada en ningun orden particular
 
-### Pregunta 3
+## Pregunta 3
 
 * f(v) es el NUMERO de aristas de la ruta de s a v, y es independiente del costo de la ruta
 * f(v) es una propiedad de un vértice independiente de que hayas calculado o no las rutas
@@ -51,18 +51,18 @@
 * No puedes usar f(v), g(v) o L como un valor conocido; si lo necesitas, calculalo, pero ojo con la complejidad que eso signifique.
 * HINT: Para resolver este problema es importante considerar de donde viene la complejidad del algoritmo, y ver que estamos haciendo o dejando de hacer para obtener estas nuevas complejidades. En particular, debes identificar que aristas no es necesario revisar en algun momento del algoritmo.
 
-#### Parte A
+### Parte A
 
 * L es una propiedad del grafo
 * L no es conocido de antemano
 * Lo unico que importa es que la complejidad sea theta(LE), independiente de si conocemos L o no
 
-#### Parte B
+### Parte B
 
 * Esta sumatoria es en el peor caso O(LE), es decir, mejor que la complejidad de la parte A
 * El f y el g no son funciones que nosotros podamos llamar; son propiedades del grafo. Si las necesitas, calculalas, pero ojo con la complejidad que eso signifique.
 
-### Pregunta 4
+## Pregunta 4
 
 * El árbol no necesariamente es completo, puede estar absolutamente desbalanceado.
 * Puedes asumir que cada regalo tiene un identificador único, y que son todos distintos entre ellos.
