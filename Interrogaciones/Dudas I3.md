@@ -1,6 +1,6 @@
 # Sesiones de dudas (Zoom)
 
-* Sesión 1: [Coming soon]
+* Sesión 1: https://zoom.us/rec/share/CfCwOUGGbd-nHnCx8OhMobrjlKKLPVaSLFHo1j76HpIp2XSCCuKT67Nx2aAl6cqW.hUcH6i1rfcGUVksP
 * Sesión 2: [Video]
 * Sesión 3: [Video]
 
